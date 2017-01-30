@@ -1,2 +1,8 @@
 # PE-HP-VS-CASIO
-PE - Probabilitat i Estadística, FIB - Facultad de Informática de Barcelona
+Daniel García Romero
+
+Erick Aramayo Monrroy
+
+Robert Almar Graupera
+
+Nota: 9,5
